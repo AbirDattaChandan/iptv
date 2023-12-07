@@ -1,0 +1,81 @@
+#EXTM3U
+#INDIAN BANGLA   #INDIAN BANGLA#    INDIAN BANGLA#   INDIAN BANGLA
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 2.COLORS BANGLA (jio)-HQ
+http://nayeem-ban.chadasaniya.ml/COLORSBANGLAIND-Bang/index.m3u8?token=test
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 3.SONY AATH S1
+http://50.7.237.4:8080/SONYAATH/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 4.SONY AATH S3
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 5.SONY AATH S5
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=466032a7967e26133836f13930ecb9817a012605-09d85b169c3593ed3b5b240731f868df-1665425330-1665414530
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 6.SONY AATH S6
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=5a76ff0630616448958f7de764bbee3003fa5af1-daccf5942bfa04de9b1b47e9370d4cf5-1662838796-1662827996
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 7.STAR JALSHA HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 8.STAR JALASHA S1 (BDXI)
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 9.STAR JALASHA S2
+http://172.50.50.8:8080/hls/channel12.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 10.STAR JALASHA S4 (3RD PARTY)
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 11.STAR JALSHA HD S8-HQ
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 12.STAR JALSHA S9 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=382a4b19fb866875abaa58fb476eb4e95caaf877-a40b8b3443994e8f292b0d52440caf16-1665433354-1665422554
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 13.STAR JALSHA S10 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=843cd11b2ef8a101a43b13594981bbcabaca9d37-be94c6646796742c8b8d381c1e665e80-1665433217-1665422417
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 14.STAR JALSHA S11 (BCIPTV)
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8?token=ef74b7f460004c75b210abf27d9e61a2f74fef22-039998b2b726963ab71f60592f3cfd06-1665433532-1665422732
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 15.STAR JALSHA HD S12 (test)
+http://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 16.ZEE BANGLA (HQ)
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0c582b6ac71bf1bd70c4289c845ea3-ecdbeb77a94546993b37774d81c1b0b5-1662680906-1662670106
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 17.ZEE BANGLA
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 18.ZEE BANGAL S01
+http://172.50.50.8:8080/hls/channel10.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",19.ZEE BANGAL S3
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 20.ZEE BANGAL (HQ) S5
+http://103.147.87.13:8002/play/a048/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 21.ZEE BANGAL S6
+http://50.7.237.4:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 22.ZEE BANGLA (HQ)
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=a905461810c2c50ee58fc1f2644b740f11c7eedf-9ded6a978a8c1ac9b7b4e6afc9024333-1662838888-1662828088
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 23.COLORS BANGALA (HQ)
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=d82417e840925703f63bb6904ca6066fcf0f75cf-b25ee74401210ac4443cd8ef632c1226-1662838743-1662827943
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 24.ZEE BANGLA CINEMA
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c90a117f55de1671d68b2394561d7d25a41-da227dfd8fa212a3af8f7f3826bfe3c6-1662838766-1662827966
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 25.JALSHA MOVIES HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 26.JALSHA MOVIES HD S2
+http://stream.amrbd.com:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=3aa95f5ef1f91338b7737e1dd00ec4dbd03249ed-98225e086abbe47c77a28462fc3e8927-1666089518-1666078718
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 27.zee bangla chinema
+http://208.86.19.13:81/708.stream/index.m3u8
